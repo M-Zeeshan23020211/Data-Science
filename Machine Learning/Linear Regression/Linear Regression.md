@@ -1,4 +1,4 @@
-# Regression in Machine Learning
+# Linear Regression in Machine Learning
 
 ## What is Regression?
 
