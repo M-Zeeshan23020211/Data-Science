@@ -5,4 +5,4 @@ This is my Portfolio Repo for Machine Learning and Deep Learning Projects Create
 # Content
 ## Implementation of ML and DL Models 
 - [Linear Regression](https://github.com/M-Zeeshan23020211/Data-Science/tree/main/Machine%20Learning/Linear%20Regression)
-- Logistic Regression
+- [Logistic Regression](https://github.com/M-Zeeshan23020211/Data-Science/tree/main/Machine%20Learning/Logistic%20Regression)
